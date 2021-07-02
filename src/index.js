@@ -1,4 +1,4 @@
-import ReactDemo from './demo/ReactDemo';
+import ReactDemo from './component/ReactDemo';
 import { hello } from './lib/utils';
 
 const Components = {
