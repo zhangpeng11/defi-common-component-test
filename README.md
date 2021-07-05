@@ -22,7 +22,7 @@
   ```bash
   npm link
   cd src/example
-  npm link defi-common-component-test # 此处为package.json中定义的name字段
+  npm link defi-common-component-test
   ```
 
 * 根目录执行：

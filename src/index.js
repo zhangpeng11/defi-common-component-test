@@ -1,18 +1,4 @@
-import ReactDemo from './component/ReactDemo';
-import { hello } from './lib/utils';
+import Components from './component/index';
+import util from './lib/utils';
 
-const Components = {
-  ReactDemo,
-  hello
-};
-
-export default Components;
-
-// import utils from './lib/utils';
-// import { hello } from './lib/utils';
-
-// export const Components = {
-//   ReactDemo
-// };
-
-// export { hello };
+export default { Components, util };

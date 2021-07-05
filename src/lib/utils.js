@@ -1,11 +1,7 @@
-// const utils = {
-//   hello() {
-//     console.log('hello world');
-//   }
-// };
-
-// export default utils;
-
-export function hello() {
+function hello() {
   console.log('hello world');
 }
+
+export default {
+  hello
+};
